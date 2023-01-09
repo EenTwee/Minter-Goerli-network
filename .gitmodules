@@ -1,0 +1,3 @@
+[submodule "minter-app"]
+	path = minter-app
+	url = https://github.com/EenTwee/Minter-Goerli-network
